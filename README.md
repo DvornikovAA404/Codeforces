@@ -1,3 +1,4 @@
+![wmremove-transformed](https://github.com/user-attachments/assets/9301d404-cc1c-46d6-b591-05bb92f01c18)
 # 🎖️Codeforces
 
 Привет! В этом репозитории я храню свои решения задач с платформы [Codeforces](https://codeforces.com/).
@@ -33,3 +34,4 @@ python3 task_name.py
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=AvadikKedavrik&theme=radical)](https://codeforces.com/profile/AvadikKedavrik)
 ---
+
