@@ -28,3 +28,8 @@
 
 ```bash
 python3 task_name.py
+```
+## 📊 Статистика Codeforces
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=AvadikKedavrik&theme=radical)](https://codeforces.com/profile/AvadikKedavrik)
+---
